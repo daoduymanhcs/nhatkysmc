@@ -11,7 +11,7 @@
     <!-- Hero -->
     <section class="min-h-screen flex items-center justify-center px-6 text-center">
         <div>
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">Tôi là <span class="text-400" style="color: #ffde02">Nhật Ký SMC</span></h1>
+            <h1 class="text-4xl md:text-5xl font-bold mb-4"><span class="text-400" style="color: #ffde02">Nhật Ký SMC</span></h1>
             <p class="text-lg text-gray-300 max-w-2xl mx-auto">Chia sẻ kiến thức giao dịch, tư duy thị trường và trải
                 nghiệm thực chiến trên thị trường Forex – hạn chế lý thuyết, tập trung lệnh thực chiến.</p>
             <div class="mt-6 flex flex-wrap justify-center gap-4">
